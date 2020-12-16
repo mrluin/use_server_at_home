@@ -1,2 +1,2 @@
 # use_server_at_home
-how to use servers at home without remote manager
+Use your server at home WITHOUT any additional remote manager!
